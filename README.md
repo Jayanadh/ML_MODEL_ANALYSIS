@@ -81,8 +81,3 @@ data/                    # (Optional) Dataset files if provided separately
 - Add more advanced models (XGBoost, CatBoost, Neural Networks)
 - Implement cross-validation for more robust evaluation
 - Deploy best model with a simple Flask/Django API or Streamlit app
-
----
-
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
